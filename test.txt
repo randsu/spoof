@@ -1,3 +1,5 @@
 this is a new beginning
 
+and a middle line
+
  ~ FINE ~
